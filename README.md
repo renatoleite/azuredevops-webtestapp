@@ -1,2 +1,2 @@
 # azuredevops-webtestapp
-Simple web application to test some Azure DevOps Concepts
+Simple web application to test some Azure DevOps concepts
